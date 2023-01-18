@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+{
+	display:flex;
+	justify-context:space-between;
+	flex-wrap:wrap;
+}
