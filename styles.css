@@ -1,7 +1,10 @@
 
 /* Your CSS Code here. */
-{
+.edit{
 	display:flex;
+	flex-direction:row;
 	justify-context:space-between;
 	flex-wrap:wrap;
+	width:100px;
+	background-color:red;
 }
